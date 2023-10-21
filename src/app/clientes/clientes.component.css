@@ -1,0 +1,11 @@
+.buttonColor{
+  background-color: #d5752d
+}
+
+.centerElement {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5;
+}
+
